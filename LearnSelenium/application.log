@@ -1,0 +1,9 @@
+2020-03-03 14:33:16,905  INFO [main] Log4jDemo:17 - URL Launched:
+2020-03-03 14:33:16,928  WARN [main] Log4jDemo:20 - Check Title:
+2020-03-03 14:33:16,928  INFO [main] Log4jDemo:26 - The URL is correct:
+2020-03-04 08:24:07,429  INFO [main] Log4jDemo:17 - URL Launched:
+2020-03-04 08:24:07,442  WARN [main] Log4jDemo:20 - Check Title:
+2020-03-04 08:24:07,443  INFO [main] Log4jDemo:26 - The URL is correct:
+2020-03-21 09:50:50,363  INFO [main] Log4jDemo:17 - URL Launched:
+2020-03-21 09:50:50,380  WARN [main] Log4jDemo:20 - Check Title:
+2020-03-21 09:50:50,380  INFO [main] Log4jDemo:26 - The URL is correct:
